@@ -1,0 +1,41 @@
+2019-09-18 21:02:54: empty string!!!2019-09-18 21:03:29: empty string!!!2019-09-18 21:03:53: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrinput.php</b> on line <b>592</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrinput.php</b> on line <b>685</b><br />
+2019-09-18 21:04:29: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrinput.php</b> on line <b>592</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrinput.php</b> on line <b>685</b><br />
+2019-09-18 21:04:53: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrinput.php</b> on line <b>592</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrinput.php</b> on line <b>685</b><br />
+2019-09-18 21:05:54: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrinput.php</b> on line <b>520</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrinput.php</b> on line <b>592</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\simFood\fyp\phpqrcode\qrinput.php</b> on line <b>685</b><br />
+2019-09-26 16:54:15: empty string!!!
